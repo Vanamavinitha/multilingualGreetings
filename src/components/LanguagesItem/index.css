@@ -1,0 +1,8 @@
+.container {
+  list-style: none;
+  list-style-type: none;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
